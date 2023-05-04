@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZUTIL</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>No ddic structure</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>test</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>cannot get userd from partner &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Configuration error in &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Configuration error &amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Error during &amp;1-&amp;2 filed control</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>unable to generate field catalog for structure &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>translation transferred</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>successfully updated &amp;1 entries</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>nothing updated</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>entry-sheet &amp;1 transfer failed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>job &amp;1 schedulation failed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>bad sql statement</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZUTIL</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>unknow error rendering alv</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
